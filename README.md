@@ -6,9 +6,7 @@ single session.
 
 ## API used
 
-[countries.dev](https://countries.dev) — a free, keyless REST API (an
-alternative to the now-deprecated `restcountries.com/v3.1`, which requires an
-API key in its newer version). This tool uses the endpoint:
+[countries.dev](https://countries.dev) — a free, keyless REST API. This tool uses the endpoint:
 
 ```
 GET https://countries.dev/countries
